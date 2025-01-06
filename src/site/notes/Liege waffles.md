@@ -44,3 +44,5 @@ Carefully remove the waffle as the caramelized sugar will definitely give you a 
 Serve as is, with a dusting of powdered sugar or melted chocolate (traditional serving ideas). These can be eaten the next day; just warm them a little first, or even put them in the toaster.
 
 ![IMG_1358.jpeg](/img/user/img/IMG_1358.jpeg)
+
+Source: https://www.christinascucina.com/a-super-lekker-authentic-traditional-belgian-waffle-recipe-trip-to-bruges/

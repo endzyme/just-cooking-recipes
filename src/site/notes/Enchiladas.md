@@ -22,3 +22,5 @@ Directions
 4. Fill tortillas, sprinkle some cheese inside, and roll them and lay them out in the pan next to each other 
 5. Cover all the rolls with enchilada sauce (cover all tortilla bits to avoid burning)
 6. Bake for 20 minutes and let cool for 5 minutes
+
+![IMG_1380.jpeg](/img/user/img/IMG_1380.jpeg)

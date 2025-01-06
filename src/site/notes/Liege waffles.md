@@ -42,3 +42,5 @@ Place a ball of dough in the middle of the iron and cook it until it's golden br
 Carefully remove the waffle as the caramelized sugar will definitely give you a nasty burn (I used a small flat wooden utensil, but wooden tongs would also work).
 
 Serve as is, with a dusting of powdered sugar or melted chocolate (traditional serving ideas). These can be eaten the next day; just warm them a little first, or even put them in the toaster.
+
+![IMG_1358.jpeg](/img/user/img/IMG_1358.jpeg)

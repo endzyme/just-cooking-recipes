@@ -3,3 +3,8 @@
 ---
 
 This is simply just some cooking recipes, nothing more. 
+
+~~~~note-gallery
+sort: desc
+limit: 9
+~~~~

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/enchilada-sauce/"}
+{"dg-publish":true,"permalink":"/enchilada-sauce/","created":"2025-01-05T21:18:50.567-05:00","updated":"2025-01-06T09:11:35.642-05:00"}
 ---
 
 

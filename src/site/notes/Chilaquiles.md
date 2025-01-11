@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chilaquiles/"}
+{"dg-publish":true,"permalink":"/chilaquiles/","created":"2025-01-05T21:11:23.291-05:00","updated":"2025-01-06T09:11:19.913-05:00"}
 ---
 
 

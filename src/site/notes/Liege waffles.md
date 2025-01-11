@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/liege-waffles/"}
+{"dg-publish":true,"permalink":"/liege-waffles/","created":"2025-01-05T21:34:06.239-05:00","updated":"2025-01-06T10:16:03.187-05:00"}
 ---
 
 

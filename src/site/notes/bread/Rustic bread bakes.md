@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/bread/rustic-bread-bakes/","created":"2025-01-13T07:21:59.686-05:00","updated":"2025-01-14T07:41:38.966-05:00"}
+{"dg-publish":true,"permalink":"/bread/rustic-bread-bakes/","created":"2025-01-13T07:21:59.686-05:00","updated":"2025-01-14T07:45:02.066-05:00"}
 ---
-
 
 # 2025-01-13
 Ingredients 
@@ -20,9 +19,15 @@ Process
 **Crumb:** seems like well proofed, even bubbles. Maybe a tad under proofed with the small bubbles.
 ```
 
+
 ![IMG_1414.jpeg](/img/user/img/IMG_1414.jpeg)
+
+
 ![IMG_1412.jpeg](/img/user/img/IMG_1412.jpeg)
+
+
 ![IMG_1411.jpeg](/img/user/img/IMG_1411.jpeg)
+
 
 
 ```ad-hint
